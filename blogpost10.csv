@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1629439212201,610,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,7,0,4
+1629439212201,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,7,0,4
+1629439212209,602,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,575,0,173
+1629439211920,882,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,72,0,58
+1629439211920,73,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,72,0,58
+1629439211995,807,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,801,0,386
+1629439212308,689,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,5,0,2
+1629439212308,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,5,0,2
+1629439212313,684,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,680,0,65
+1629439212505,586,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,1
+1629439212505,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,1
+1629439212508,583,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,568,0,24
+1629439212401,742,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212401,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212405,738,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,734,0,20
+1629439212005,1171,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,1
+1629439212005,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,1
+1629439212008,1168,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1165,0,370
+1629439212104,1084,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212104,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212108,1080,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1076,0,273
+1629439211914,1276,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,74,0,64
+1629439211914,79,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,74,0,64
+1629439211996,1194,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1186,0,383
+1629439212609,644,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,5,0,3
+1629439212609,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,5,0,3
+1629439212614,639,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,636,0,24
+1629439212708,587,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212708,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,2
+1629439212712,583,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,580,0,18
+1629439212819,529,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439212819,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439212821,527,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,523,0,0
+1629439212814,574,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,6,0,0
+1629439212814,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,6,0,0
+1629439212821,567,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,564,0,0
+1629439212998,404,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439212998,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213000,402,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,392,0,0
+1629439213092,380,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213092,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213093,379,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,375,0,0
+1629439213144,437,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213144,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213146,435,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,431,0,0
+1629439213189,441,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213189,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213191,439,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,435,0,0
+1629439213191,610,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213191,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213192,609,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,605,0,0
+1629439213254,628,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213254,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213256,626,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,623,0,0
+1629439213177,728,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213177,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213179,726,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,722,0,0
+1629439213296,680,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213296,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213298,678,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,675,0,0
+1629439213389,709,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213389,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213391,707,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,704,0,0
+1629439213581,518,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213581,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213583,516,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,513,0,0
+1629439213349,856,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213349,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213350,855,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,850,0,0
+1629439213473,733,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213473,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213475,731,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,728,0,0
+1629439213403,808,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213403,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213405,806,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,802,0,0
+1629439213631,605,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213631,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213633,603,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,600,0,0
+1629439213802,577,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213802,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213804,575,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,572,0,0
+1629439213977,505,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213977,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213978,504,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,495,0,0
+1629439214099,517,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214099,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214101,515,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,512,0,0
+1629439213883,817,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213883,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439213885,815,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,812,0,0
+1629439214211,510,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214211,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214213,508,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,505,0,0
+1629439213906,831,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213906,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439213907,830,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,827,0,0
+1629439214100,686,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214100,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214102,684,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,681,0,0
+1629439214208,593,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214208,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214210,591,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,586,0,0
+1629439214380,468,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214380,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214382,466,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,464,0,0
+1629439214236,648,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214236,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214238,646,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,643,0,0
+1629439214205,724,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439214205,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439214208,721,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,718,0,0
+1629439214483,537,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214483,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214485,535,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,533,0,0
+1629439214617,468,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214617,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214619,466,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,463,0,0
+1629439214722,503,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214722,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214723,502,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,500,0,0
+1629439214787,777,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214787,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214788,776,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,763,0,0
+1629439214801,763,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214801,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214803,761,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,758,0,0
+1629439214738,836,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214738,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214740,834,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,831,0,0
+1629439214885,697,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214885,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214886,696,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,693,0,0
+1629439214701,888,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214701,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214703,886,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,883,0,0
+1629439214930,685,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214930,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439214932,683,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,681,0,0
+1629439215086,562,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215086,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215087,561,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,559,0,0
+1629439214849,812,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214849,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439214851,810,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,807,0,0
+1629439215226,473,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215226,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215228,471,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,469,0,0
+1629439215021,758,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215021,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215024,755,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,752,0,0
+1629439215583,406,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215583,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215584,405,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,402,0,0
+1629439215616,642,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215616,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215617,641,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,639,0,0
+1629439215565,699,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215565,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215567,697,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,694,0,0
+1629439215649,663,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215649,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215651,661,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,658,0,0
+1629439215590,730,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215590,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215591,729,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,723,0,0
+1629439215700,631,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215700,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215701,630,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,628,0,0
+1629439215576,816,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215576,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215577,815,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,812,0,0
+1629439215566,868,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215566,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215567,867,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,864,0,0
+1629439215990,480,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215990,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215991,479,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,476,0,0
+1629439215779,694,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215779,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439215781,692,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,689,0,0
+1629439215662,821,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215662,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439215664,819,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,816,0,0
+1629439216259,358,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216259,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216261,356,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,353,0,0
+1629439216264,466,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216264,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216266,464,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,461,0,0
+1629439216332,695,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216332,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216333,694,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,691,0,0
+1629439216321,719,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216321,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216322,718,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,715,0,0
+1629439216473,593,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216473,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216475,591,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,588,0,0
+1629439216312,810,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216312,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216314,808,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,802,0,0
+1629439216483,648,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216483,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216485,646,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,643,0,0
+1629439216471,680,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216471,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216473,678,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,676,0,0
+1629439216731,474,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216731,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216733,472,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,469,0,0
+1629439216618,690,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216618,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216620,688,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,685,0,0
+1629439216393,947,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216393,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439216395,945,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,942,0,0
+1629439216435,907,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216435,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439216436,906,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,903,0,0
+1629439217039,469,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217039,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217041,467,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,462,0,0
+1629439217121,387,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217121,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217123,385,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,381,0,0
+1629439217066,559,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217066,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217067,558,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,555,0,0
+1629439217027,624,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217027,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217028,623,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,621,0,0
+1629439217307,552,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217307,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217309,550,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,547,0,0
+1629439217205,678,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217205,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217207,676,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,674,0,0
+1629439217131,803,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217131,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217132,802,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,800,0,0
+1629439217626,448,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217626,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217627,447,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,444,0,0
+1629439217151,946,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217151,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217153,944,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,941,0,0
+1629439217340,865,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217340,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217342,863,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,860,0,0
+1629439217860,358,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217860,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217861,357,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,355,0,0
+1629439217508,715,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217508,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217510,713,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,711,0,0
+1629439217652,609,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217652,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217654,607,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,604,0,0
+1629439217508,793,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217508,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217510,791,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,788,0,0
+1629439217341,1015,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217341,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217343,1013,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1010,0,0
+1629439217884,476,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217884,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439217885,475,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,472,0,0
+1629439217935,462,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217935,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439217937,460,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,457,0,0
+1629439218075,407,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218075,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218076,406,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,403,0,0
+1629439218098,484,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218098,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218099,483,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,480,0,0
+1629439218219,621,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218219,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218221,619,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,615,0,0
+1629439218398,462,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218398,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218400,460,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,457,0,0
+1629439218583,398,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439218583,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439218586,395,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,392,0,0
+1629439218224,817,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218224,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218225,816,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,814,0,0
+1629439218262,806,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218262,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218264,804,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,801,0,0
+1629439218205,907,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218205,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218207,905,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,903,0,0
+1629439218840,304,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218840,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218842,302,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,299,0,0
+1629439218357,808,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,4,0,0
+1629439218357,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,4,0,0
+1629439218361,804,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,799,0,0
+1629439218302,892,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218302,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218303,891,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,888,0,0
+1629439218482,747,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218482,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218484,745,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,742,0,0
+1629439218360,901,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218360,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439218362,899,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,896,0,0
+1629439218861,402,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218861,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218863,400,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,396,0,0
+1629439219144,417,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219144,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219146,415,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,412,0,0
+1629439219042,550,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219042,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219043,549,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,546,0,0
+1629439219113,715,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219113,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219115,713,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,711,0,0
+1629439219230,686,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219230,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219231,685,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,682,0,0
+1629439219263,687,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219263,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219265,685,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,682,0,0
+1629439218986,1052,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218986,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439218987,1051,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1048,0,0
+1629439219069,981,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219069,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219070,980,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,977,0,0
+1629439219166,902,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219166,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219167,901,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,898,0,0
+1629439219592,515,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219592,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219594,513,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,510,0,0
+1629439219262,862,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219262,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219264,860,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,856,0,0
+1629439219562,571,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219562,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219563,570,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,567,0,0
+1629439219194,942,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219194,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219196,940,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,937,0,0
+1629439219829,449,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219829,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439219830,448,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,445,0,0
+1629439219950,480,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219950,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219952,478,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,475,0,0
+1629439219916,527,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219916,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439219918,525,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,522,0,0
+1629439220039,534,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439220039,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439220040,533,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,530,0,0
+1629439220069,640,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220069,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220071,638,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,635,0,0
+1629439220107,793,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220107,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220109,791,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,789,0,0
+1629439220050,968,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439220050,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439220053,965,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,964,0,0
+1629439220137,913,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439220137,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439220138,912,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,907,0,0
+1629439220124,943,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220124,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220126,941,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,939,0,0
+1629439220443,667,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220443,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220445,665,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,664,0,0
+1629439220134,986,HTTP Request,200,OK,Thread Group 1-1,text,true,,110194,336,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220134,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,381,166,10,10,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220136,984,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,109813,170,10,10,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,982,0,0
+1629439220709,501,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220709,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,9,9,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220711,499,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,498,0,0
+1629439220573,678,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220573,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,9,9,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220575,676,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,674,0,0
+1629439220430,828,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220430,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,9,9,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220432,826,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,824,0,0
+1629439220901,369,HTTP Request,200,OK,Thread Group 1-5,text,true,,110194,336,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220901,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,381,166,9,9,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220903,367,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,109813,170,9,9,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,366,0,0
+1629439220278,1019,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220278,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,8,8,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439220280,1017,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1015,0,0
+1629439221018,389,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221018,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,8,8,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221020,387,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,386,0,0
+1629439221050,366,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221050,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,8,8,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221052,364,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,363,0,0
+1629439221111,482,HTTP Request,200,OK,Thread Group 1-10,text,true,,110194,336,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221111,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,381,166,8,8,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221113,480,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,109813,170,8,8,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,479,0,0
+1629439221067,671,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,7,7,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439221067,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,7,7,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,3,0,0
+1629439221070,668,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,7,7,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,667,0,0
+1629439221251,507,HTTP Request,200,OK,Thread Group 1-4,text,true,,110194,336,7,7,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221251,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,381,166,7,7,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221253,505,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,109813,170,7,7,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,502,0,0
+1629439221212,571,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,6,6,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221212,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,6,6,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221213,570,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,6,6,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,568,0,0
+1629439221259,527,HTTP Request,200,OK,Thread Group 1-2,text,true,,110194,336,6,6,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221259,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,381,166,6,6,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221260,526,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,109813,170,6,6,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,525,0,0
+1629439221408,556,HTTP Request,200,OK,Thread Group 1-6,text,true,,110194,336,5,5,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221408,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,381,166,5,5,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221409,555,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,109813,170,5,5,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,554,0,0
+1629439221738,240,HTTP Request,200,OK,Thread Group 1-7,text,true,,110194,336,4,4,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221738,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,381,166,4,4,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221740,238,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,109813,170,4,4,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,237,0,0
+1629439221783,248,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221783,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,3,3,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439221785,246,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,244,0,0
+1629439221416,616,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221416,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,3,3,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221417,615,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,614,0,0
+1629439221297,750,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221297,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,3,3,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439221299,748,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,746,0,0
+1629439222034,241,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222034,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,3,3,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222035,240,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,238,0,0
+1629439222033,348,HTTP Request,200,OK,Thread Group 1-8,text,true,,110194,336,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222033,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,381,166,3,3,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222034,347,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,109813,170,3,3,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,346,0,0
+1629439222048,352,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,2,2,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439222048,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,2,2,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,2,0,0
+1629439222050,350,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,2,2,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,349,0,0
+1629439222275,233,HTTP Request,200,OK,Thread Group 1-9,text,true,,110194,336,2,2,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222275,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,381,166,2,2,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222277,231,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,109813,170,2,2,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,230,0,0
+1629439222401,180,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,1,1,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222401,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,1,1,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222402,179,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,1,1,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,177,0,0
+1629439222581,168,HTTP Request,200,OK,Thread Group 1-3,text,true,,110194,336,1,1,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222581,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,381,166,1,1,http://test.bestviewsreviews.com/blog/delightful-new-year-gifts-2021/,1,0,0
+1629439222583,166,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,109813,170,1,1,https://test.bestviewsreviews.com:443/blog/delightful-new-year-gifts-2021/,165,0,0
